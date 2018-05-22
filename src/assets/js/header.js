@@ -23,4 +23,3 @@
   $(window).scroll(navbarCollapse);
 
 
-  AOS.init();
